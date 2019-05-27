@@ -28,6 +28,20 @@ h4{
 	color: black;
 	text-align: center;
 }
+.mySlides>.text{
+	color: black;
+}
+.heading{
+	text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    border: 1px solid;
+    padding: 15px;
+}
+footer{
+	text-align: center;
+}
+
 nav{
 	/* margin: 50px; */
 	display: inline;
@@ -61,6 +75,10 @@ nav{
   max-width: 100%;
   position: relative;
   margin: auto;
+  margin-top: 50px;
+}
+footer{
+	margin: 10px;
 }
 
 /* Hide the images by default */
